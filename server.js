@@ -59,11 +59,11 @@ switch (new Date().getDay()) {
 client.on("ready", () => {
 
     client.user.setActivity("m!help -general", {type: "STREAMING"});
-    console.log('\x1b[36m%s\x1b[0m','[client] Gotowy')
-    console.log('\x1b[36m%s\x1b[0m',"[client] Wystartowałem o " + time)
-    console.log('\x1b[36m%s\x1b[0m',`[client] Zalogowano jako: ${client.user.username}`);
-    console.log('\x1b[36m%s\x1b[0m',"[client] Bot obsługuje " + client.users.size + " osób, " +  client.channels.size + " kanałów, " + client.guilds.size + " serwerów");
-
+    console.log('[client] Gotowy')
+    console.log("[client] Wystartowałem o " + time)
+    console.log(`[client] Zalogowano jako: ${client.user.username}`);
+    console.log("[client] Bot obsługuje " + client.users.size + " osób, " +  client.channels.size + " kanałów, " + client.guilds.size + " serwerów");
+//\x1b[36m%s\x1b[0m
 });
 client.on('guildMemberRemove', member => {
   if(member.guild.id == '415917934268121118'){
