@@ -9,7 +9,7 @@ module.exports.run = async (client, message, args) => {
         .setAuthor("Hey " + message.author.username.toString(), message.author.avatarURL)
         .setDescription(`Pomoc Miecia! \nPrefix - m!`,inline = true)
         .addField("Zaproszenie:", `invite\nnew.idea\nbugreport`)
-        .addField("Inna pomoc:",`help -admin\nhelp -user\nhelp -fun\nhelp -react\nhelp -eat\nhelp -drink`)
+        .addField("Inna pomoc:",`help -admin\nhelp -user\nhelp -fun\nhelp -react\nhelp -eat\nhelp -drink\nhelp -music`)
         .setThumbnail("https://cdn.discordapp.com/avatars/423196130508275716/65a17d5274f3db851ef9ab5f3ed13ea1.png?size=2048");
         message.author.send({
           embed: helpembed
@@ -69,6 +69,15 @@ if(ver == 'drink'){
   .setFooter(`Pomoc - komendy picie`)
 message.author.send({embed: ver})
 }
+if(ver =='-music'){
+  let music = new Discord.RichEmbed()
+  .setTitle(`Muzyka`)
+  .setColor(config.embed_color)
+  .addField("Komendy:",`play\npause\nresume\nvolume\nskip\nstop\nqueue`)
+  .setThumbnail(`https://png.icons8.com/metro/1600/cocktail.png`)
+  .setFooter(`Pomoc - komendy picie`)
+}
+//play <piosenka> - (aby puścic muzykę z yt)\npause - (pauzuje odtwarzanie) \nresume - (odpauzowuje odtwarzanie) \nvolume <0-200> - (ustaw głośność)\nskip - (pomiń piosenkę)\nstop - (zatrzymaj odtwarzanie) \nqueue-(sprawdź playlistę)`
 message.react('👌')
 message.channel.send(message.author.username.toString() + " Sprawdź DM, jeśli wiadomość nie doszła sprawdź, czy masz włączone otrzymywanie DM'ów")
 }
