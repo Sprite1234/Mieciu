@@ -1,6 +1,6 @@
 const Discord = require("discord.js");
 module.exports.run = async (client, message, args) =>{
-var text = message.content.substring(1);
+var text = args.join(" ");
 
        // Reverse the message
        var reversed = '';
