@@ -422,11 +422,10 @@ if(command == 'avatar'){
    .setAuthor("Informacje o bocie")
    .setColor(config.embed_color)
    .addField("Bot obsługuje ", `${client.users.size} osób, ${client.channels.size} kanałów, ${client.guilds.size} serwerów`)
-   .addField("Informacje o systemie", `**Bot działa na:** ${os.hostname()}\n**System:** ${os.type()}\n**Procesor:** Intel(R) Core(TM) i3-6006U CPU @ 2.00GHz (${os.arch()}) \n**Pamięć RAM:** ${all_memory} GB (wolna: ${all_freememory} GB)\n**Wersja Node:** 10.2.1`)
+   .addField("Informacje o systemie", `**Bot działa na:** ${os.hostname()}\n**System:** ${os.type()}\n**Procesor:** Intel(R) Xeon(R) CPU E5-2670 v2 @ 2.50GHz (${os.arch()}) \n**Pamięć RAM:** ${all_memory} GB (wolna: ${all_freememory} GB)\n**Wersja Node:** 10.2.1`)
    .addField("Ścieżka do pliku", `**Bot znajduje się w folderze:** ${__dirname}\n**Plik Główny:** ${__filename}`)
    .addField("Bot został włączony",` ${day} o ${time}`)
    message.channel.send({embed: info})
-   console.log(os.cpus())
   }
     if (command === "kick") {
       if(!message.member.roles.some(r=>["Admin","Administrator", "Moderator", "podkomisarze w Hyrule", "agent FBI w Hyrule", "właściciele", "Administracja"].includes(r.name)))
