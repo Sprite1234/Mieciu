@@ -4,12 +4,12 @@ const Jimp = require('jimp')
 const config = require(`../config.json`)
 module.exports.run = async (client, message, args) => {
   let embed = new Discord.RichEmbed()
-  .setTitle("Achivement")
+  .setTitle("Achievement")
   .setColor(config.embed_color)
   .setImage(`https://www.minecraftskinstealer.com/achievement/a.php?i=2&h=Achievement+Get%21&t=${args.join("+")}`)
 message.channel.send({embed: embed})
 }
 module.exports.help ={
-  name: "achivement"
+  name: "achievement"
 }
 //`https://www.minecraftskinstealer.com/achievement/a.php?i=2&h=Achievement+Get%21&t=dwa+wyrazy`

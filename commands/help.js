@@ -37,7 +37,7 @@ if(ver == '-fun'){
   let fun = new Discord.RichEmbed()
   .setTitle("Komendy 4FUN")
   .setColor(config.embed_color)
-  .addField("Komendy:", `reverse\nstart.typing\nstop.typing\n8ball\nchoose\navatar\nos.ping\nsay\nascii\nhug\npat\nslap\npunch\nlenny\nlennyd\nshrug\nshrugd`)
+  .addField("Komendy:", `achievement\nreverse\nstart.typing\nstop.typing\n8ball\nchoose\navatar\nos.ping\nsay\nascii\nhug\npat\nslap\npunch\nlenny\nlennyd\nshrug\nshrugd`)
   .setThumbnail(`https://3.bp.blogspot.com/-iy5AfJzE6Ps/VvqmjBBKUDI/AAAAAAAACGg/XVc62c1xAp4J92nDgWYhffLDfAG2EZ2AA/s320/Scooterise-have-fun.png`)
   .setFooter(`Pomoc - komendy 4Fun`)
 message.author.send({embed: fun})
