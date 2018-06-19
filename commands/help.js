@@ -76,6 +76,7 @@ if(ver =='-music'){
   .addField("Komendy:",`play\npause\nresume\nvolume\nskip\nstop\nqueue`)
   .setThumbnail(`https://png.icons8.com/metro/1600/music.png`)
   .setFooter(`Pomoc - komendy muzyka`)
+  message.author.send({embed: music})
 }
 //play <piosenka> - (aby puścic muzykę z yt)\npause - (pauzuje odtwarzanie) \nresume - (odpauzowuje odtwarzanie) \nvolume <0-200> - (ustaw głośność)\nskip - (pomiń piosenkę)\nstop - (zatrzymaj odtwarzanie) \nqueue-(sprawdź playlistę)`
 message.react('👌')
