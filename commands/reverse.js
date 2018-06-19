@@ -12,7 +12,7 @@ var text = args.join(" ");
        }
 
        // Reply to the user's message
-       message.reply(reversed);
+       message.channel.send(reversed);
    }
    module.exports.help = {
      name: "reverse"
