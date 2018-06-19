@@ -1,0 +1,52 @@
+{
+  "name": "mieciu",
+  "version": "1.0.0",
+  "description": "Bot napisany przez Spyte w Node.js",
+  "main": "server.js",
+  "scripts": {
+    "test": "TEST"
+  },
+  "keywords": [
+    "bot",
+    "node",
+    "js"
+  ],
+  "author": "Spyte",
+  "license": "MIT",
+  "dependencies": {
+    "array-sort": "^1.0.0",
+    "ascii": "^1.0.0",
+    "ascii-art": "^1.4.3",
+    "ascii-text-generator": "^1.0.5",
+    "axios": "^0.18.0",
+    "bing.search": "^1.0.1",
+    "deepl-translator": "^1.2.0",
+    "discord-bot-list": "^1.0.1",
+    "discord.js": "^11.3.2",
+    "discord.js-music": "^2.1.0",
+    "discord.js-music-v11": "^1.3.4",
+    "discord.js-musicbot-addon": "^12.0.6",
+    "ffmpeg-binaries": "^3.2.2-3",
+    "giph": "^1.0.0",
+    "giphy-api": "^1.2.7",
+    "giphy-random": "^1.0.5",
+    "glitchup": "^1.2.0",
+    "google": "^2.1.0",
+    "google-images": "^2.1.0",
+    "google-translate": "^2.2.0",
+    "google-translate-token": "^1.0.0",
+    "hastebin": "0.0.3",
+    "jimp": "^0.2.28",
+    "opus": "0.0.0",
+    "pastebin": "0.0.1",
+    "qr-image": "^3.2.0",
+    "quick.hook": "^1.4.2",
+    "simsimi": "^2.0.2",
+    "table": "^4.0.3",
+    "text": "^0.1.0",
+    "weather-js": "^2.0.0",
+    "weeb-sh": "^0.3.3",
+    "yahoo-weather": "^2.2.2",
+    "ytdl-core": "^0.20.4"
+  }
+}

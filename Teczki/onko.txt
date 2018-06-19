@@ -1,0 +1,435 @@
+Spyte Napisał: (od teraz)
+K&S  [Schmetterling] Napisał: papa
+K&S  [Schmetterling] Napisał: pa pa
+Spyte Napisał: XD
+K&S  [Schmetterling] Napisał: papa prywatności
+K&S  [Schmetterling] Napisał: ej
+Spyte Napisał: Co
+Spyte Napisał: <@296401912217993226>
+K&S  [Schmetterling] Napisał: jak to działa
+K&S  [Schmetterling] Napisał: a ty znów zarosłaś
+Spyte Napisał: 
+Spyte Napisał: A jak działa
+Spyte Napisał: to
+K&S  [Schmetterling] Napisał: co za stalker
+Spyte Napisał: ```json
+if(msg.channel.id == '382903805747920898') {
+
+fs.appendFile('onko.txt', msg.author.username.toString() +" Napisał: " + msg.content + '\n' );
+}```
+K&S  [Schmetterling] Napisał: tooo tten
+K&S  [Schmetterling] Napisał: usuń wszystkie kanały z onko w skrypcie 😛
+Spyte Napisał: xD
+Spyte Napisał: Ale tylko ten kanał jbc
+Spyte Napisał: ¯\_(ツ)_/¯
+K&S  [Schmetterling] Napisał: ~~`da się tak zrobić aby wysyłał te wiadomości w innym kanale`~~
+Spyte Napisał: ? xD
+Spyte Napisał: słucham sb muzyki i nagle
+Spyte Napisał: `TU HAHMENT TO ZAWÓD`
+Spyte Napisał: XDDDDD
+Spyte Napisał: (mówię tak na sw sis)
+K&S  [Schmetterling] Napisał: ej bombowa nuta pewnie
+Spyte Napisał: XDD
+Presto Napisał: Siema Pawełek
+K&S  [Schmetterling] Napisał: heejha nakleejka 😛
+Presto Napisał: <@296401912217993226> Co tam?
+K&S  [Schmetterling] Napisał: nwm, chyba na kogoś czekam, ale niejestem pewien czy na pewno  /shrug
+K&S  [Schmetterling] Napisał: ¯\_(ツ)_/¯
+K&S  [Schmetterling] Napisał: i za jakąs godzine *(tak na oko)*  wychodzę z domu
+Fubuki Napisał: czemu ludzie w goldzie
+Fubuki Napisał: graja gorzej niz ludzie w bronzie?
+Fubuki Napisał: ja chce do bronza spowrotem
+Fubuki Napisał: ;-;
+K&S  [Schmetterling] Napisał: gold to czysty brąz
+K&S  [Schmetterling] Napisał: różni się tylko kolorem 😛
+Fubuki Napisał: 😄
+K&S  [Schmetterling] Napisał: no taka prawda
+K&S  [Schmetterling] Napisał: ale b5, a b4 to jest różnica
+K&S  [Schmetterling] Napisał: bo w b5 to za dużo dla niektórych
+elwieshako Napisał: <@!316632405567864833>
+Spyte Napisał: lel
+Spyte Napisał: Nice ikonka xD
+K&S  [Schmetterling] Napisał: dziena XD
+K&S  [Schmetterling] Napisał: też u siebie zmieniasz?
+Spyte Napisał: Ej w sumoe
+Spyte Napisał: Ej
+Spyte Napisał: Wiesz co
+Spyte Napisał: Ten bot musi mieć dobry hosting
+Spyte Napisał: Widziałeś ten spam?
+Spyte Napisał: xD
+K&S  [Schmetterling] Napisał: widziałem
+K&S  [Schmetterling] Napisał: ale bot 10/10
+Spyte Napisał: No
+Spyte Napisał: Nowa ikonka baru już jest
+K&S  [Schmetterling] Napisał: najs
+MEE6 Napisał: GRATULUJĘ <@!296401912217993226> właśnie awansowałeś, oby tak dalej ^^   `[Twój aktualny poziom: 31.]`
+K&S  [Schmetterling] Napisał: dziena Maciek
+K&S  [Schmetterling] Napisał: ❤
+Spyte Napisał: To jest z okazji urodzin dc czy cuś?
+K&S  [Schmetterling] Napisał: z 3. urodzin
+K&S  [Schmetterling] Napisał: <@!215142700402475008>
+K&S  [Schmetterling] Napisał: wracaj
+K&S  [Schmetterling] Napisał: ej
+Spyte Napisał: ;-;
+K&S  [Schmetterling] Napisał: ej, bo ja nwm co zrobiłem
+Spyte Napisał: Co jej powiedziałeś
+Spyte Napisał: xD
+Damian102 Napisał: co jej powiedział!
+K&S  [Schmetterling] Napisał: właśnie nic
+Damian102 Napisał: życie
+Damian102 Napisał: :<
+Spyte Napisał: Może internet jej padł
+K&S  [Schmetterling] Napisał: nie
+K&S  [Schmetterling] Napisał: bo powiedziała *dobra, ide sobie*
+K&S  [Schmetterling] Napisał: *cześć*
+Damian102 Napisał: smuteczek
+MaciekGancu Napisał: <:smuteczek:397496285097099265>
+Spyte Napisał: Może czasu nie ma czy coś
+Spyte Napisał: :/
+K&S  [Schmetterling] Napisał: zed: report adc 4 feed and ks fc noob  ¯\_(ツ)_/¯
+Spyte Napisał: <@!407580978580684807> to masz już ten av? xD
+K&S  [Schmetterling] Napisał: bot go nie kocha XD
+MaciekGancu Napisał: kot kogo nie kovchdeaAA?A?
+K&S  [Schmetterling] Napisał: Matiego
+K&S  [Schmetterling] Napisał: XD
+Spyte Napisał: Mi sie udało
+MaciekGancu Napisał: jest tak go-roco ze ni0e chce mi sie pisac ładni0ew
+Spyte Napisał: jego
+Spyte Napisał: av
+Spyte Napisał: Podać?
+MaciekGancu Napisał: nue
+MaciekGancu Napisał: on
+MaciekGancu Napisał: sostał
+MaciekGancu Napisał: dostał
+MaciekGancu Napisał: ale był tak hujowy ze szkoda gadac
+MaciekGancu Napisał: :3
+K&S  [Schmetterling] Napisał: ehh
+Spyte Napisał: XD
+K&S  [Schmetterling] Napisał: a jednak -_-
+KONIEC Napisał: huh vip
+bored Napisał: <@296401912217993226>
+bored Napisał: Widziałem kiedyś
+bored Napisał: Że ktoś pisał
+bored Napisał: Że można zmienić kolor vipa czy coś
+K&S  [Schmetterling] Napisał: no można
+bored Napisał: Ty wiesz jaki mi dać
+K&S  [Schmetterling] Napisał: i miałem do cb pisać z pytaniem jaki kolor chcesz
+K&S  [Schmetterling] Napisał: no nie bardzo XD
+bored Napisał: Paweł
+bored Napisał: Daj spokój
+bored Napisał: W jakim kolorze robiliśmy pentagramy w mc
+bored Napisał: No pewnie ze różowym debilu
+K&S  [Schmetterling] Napisał: one były czarne cwelu LOL
+Mieciu Napisał: https://tenor.com/view/xd-gif-8855872
+K&S  [Schmetterling] Napisał: albo czerwone
+K&S  [Schmetterling] Napisał: czarne
+bored Napisał: Robiliśmy różowe
+bored Napisał: Ale niech byndzie
+K&S  [Schmetterling] Napisał: 3maj różowy 😗
+K&S  [Schmetterling] Napisał: pasuje do cb
+Spyte Napisał: xD
+Paulinka Napisał: <@307520148510736385>  halo
+Paulinka Napisał: <@407580978580684807>
+Ganc_m Napisał: tak ?
+| عبد Napisał: 
+| عبد Napisał: Dzień dobry
+K&S  [Schmetterling] Napisał: witaj ponownie 😛
+| عبد Napisał: Jak ponownie?
+| عبد Napisał: Pierwszy raz tu wchodzę
+| عبد Napisał: <@215142700402475008> zobacz na pw
+| عبد Napisał: Bo będzie mi smutno
+| عبد Napisał: <@215142700402475008> dzwonić to dzwonisz ale odpisać na PW to duże wyzwanie xD
+Siroski Napisał: Narodowy dzieñ dosxorda
+Siroski Napisał: JEJ
+Siroski Napisał: Lecz jeztem za leniwy
+Youmizu Napisał: eluwa
+MEE6 Napisał: GRATULUJĘ <@!442358119453032468> właśnie awansowałeś, oby tak dalej ^^   `[Twój aktualny poziom: 1.]`
+Youmizu Napisał: anook
+K0DaKk Napisał: Czy to Wilk z Lasu v2?
+K&S  [Schmetterling] Napisał: nwm XD
+K&S  [Schmetterling] Napisał: chyba nie
+Baby Gίrl Napisał: ohayoo
+| عبد Napisał: No dzień dobry
+Ganc_m Napisał: Elko
+K0DaKk Napisał: aloha
+Baby Gίrl Napisał: ct?
+K&S  [Schmetterling] Napisał: zgadnij
+Baby Gίrl Napisał: pff
+K&S  [Schmetterling] Napisał: ¯\_(ツ)_/¯
+Baby Gίrl Napisał: ;3
+| عبد Napisał: Dzień dobry
+K&S  [Schmetterling] Napisał: Dzień dobry ^^
+ღηαкαтσღ Napisał: 
+Revv Napisał: 
+K0DaKk Napisał: 
+K0DaKk Napisał: Po tylu latach wyzywania ludzioszków
+Revv Napisał: Gz
+K&S  [Schmetterling] Napisał: Nojzz
+Baby Gίrl Napisał: dobry
+Hiraī Momo Napisał: Hejka
+Baby Gίrl Napisał: Omedetō gozaimasu
+Baby Gίrl Napisał: <@!344794738311954434>
+Baby Gίrl Napisał: :3
+K0DaKk Napisał: Ja po chińskich zupkach nie gadam 😐
+Hiraī Momo Napisał: Annjong-wo
+K&S  [Schmetterling] Napisał: 😂
+K&S  [Schmetterling] Napisał: jak dla mnie to język nintendo 😛
+Hiraī Momo Napisał: XD
+MEE6 Napisał: GRATULUJĘ <@!378195758400274432> właśnie awansowałeś, oby tak dalej ^^   `[Twój aktualny poziom: 1.]`
+K&S  [Schmetterling] Napisał: ¯\_(ツ)_/¯
+Hiraī Momo Napisał: Kiedy jesteś koreanką, ale na EUNE masz silvera :')
+K&S  [Schmetterling] Napisał: smutne :XD
+Hiraī Momo Napisał: Rodzice disappointed as fuck
+Hiraī Momo Napisał: Ale chociaż na japońskim serwerze masz Diamenta;^,
+K&S  [Schmetterling] Napisał: aa tam japonia
+K&S  [Schmetterling] Napisał: tylko turcja
+K&S  [Schmetterling] Napisał: tam to jest dopiero poziom
+Hiraī Momo Napisał: Kiedy jesteś pół japonką, pół koreanką, ale japoński troszku kuślawy dla ciebie ;;
+Hiraī Momo Napisał: Grałeś na Korei? XD
+K&S  [Schmetterling] Napisał: nope
+K&S  [Schmetterling] Napisał: jeszcze  nie
+Misiaa 🐻 Napisał: Robaczkii
+Misiaa 🐻 Napisał: Szukam atencji
+Misiaa 🐻 Napisał: Pilnie
+Misiaa 🐻 Napisał: !!!!
+Ganc_m Napisał: oho
+Ganc_m Napisał: atencjuszka kolejna
+Misiaa 🐻 Napisał: Tak!
+Ganc_m Napisał: coz takiego sie staloo ?
+Misiaa 🐻 Napisał: I jak to kolejnaaaaaa
+Misiaa 🐻 Napisał: Nic się nie stało
+Misiaa 🐻 Napisał: Przyjaciółka nie przyszła
+Ganc_m Napisał: no to po co krzyczysz
+Ganc_m Napisał: :#@
+Misiaa 🐻 Napisał: I zdycham z nudów
+Ganc_m Napisał: uuuu
+Ganc_m Napisał: no to peszek
+Misiaa 🐻 Napisał: Dokładnie
+Misiaa 🐻 Napisał: Gdybym tylko mogła stąd wyjść
+Ganc_m Napisał: a wyjdz
+Ganc_m Napisał: just dooooo it mala 😄
+Misiaa 🐻 Napisał: Nie jestem mała
+Misiaa 🐻 Napisał: ;----;
+Baby Gίrl Napisał: @everyone Chce ktoś jechać z nami ( <@340930655707987970> <@296401912217993226>  <@298627925807202304> ) na oboz?
+Paulinka Napisał: Ja!
+Paulinka Napisał: Chociaż jeśli Paweł jedzie to muszę się zastanowić dobrze
+Baby Gίrl Napisał: Około 1800 zł z parkiem rozrywki 😃
+Baby Gίrl Napisał: https://www.serwiswakacyjny.com/swiat-mangi-wyspa-zdrowia,SW-19367
+Fubuki Napisał: :DDDDD
+Fubuki Napisał: 1800zl .................
+Dyno Napisał: <@298627925807202304> No spamming.
+Fubuki Napisał: 1800 zl .....
+RoadTo100Top_Fortnite Napisał: Ja mieszkambw Świnoujście
+Paulinka Napisał: A manga to nie dla mnie :/
+K&S  [Schmetterling] Napisał: ¯\_(ツ)_/¯
+Baby Gίrl Napisał: :>
+Blacklord Napisał: 
+Blacklord Napisał: hej
+♤Niziøl♤ Napisał: Czemu jest niebieski avek?!?!?!?
+Spyte Napisał: Avek?
+Spyte Napisał: ( no chyba, że chodzi ci o ikonke srv)
+Spyte Napisał: Są urodziny Discorda
+| عبد Napisał: <:Hangink:391340383788990467>
+Mamoshiko Napisał: Ave discord 8)
+Spyte Napisał: :P
+Baby Gίrl Napisał: nie
+K&S  [Schmetterling] Napisał: tak
+K&S  [Schmetterling] Napisał: LOL
+Mieciu Napisał: https://tenor.com/view/xd-gif-8855872
+Spyte Napisał: =sayd Przyjdź do mnie w nocy ( ͡° ͜ʖ ͡°)( ͡° ͜ʖ ͡°)( ͡° ͜ʖ ͡°)
+Ayana Napisał: Przyjdź do mnie w nocy ( ͡° ͜ʖ ͡°)( ͡° ͜ʖ ͡°)( ͡° ͜ʖ ͡°)
+K&S  [Schmetterling] Napisał: okey
+elwieshako Napisał: <@296401912217993226>
+K&S  [Schmetterling] Napisał: ?
+elwieshako Napisał: cho na kanał
+RoadTo100Top_Fortnite Napisał: Siema
+elwieshako Napisał: dzień dobry
+elwieshako Napisał: <@296401912217993226>  PAWeł
+PEIKU Napisał: Dzieńdoberek wszystkim
+PEIKU Napisał: Co tam u was?
+K&S  [Schmetterling] Napisał: nwm, ale moje życie nie ma sensu
+K&S  [Schmetterling] Napisał: bo gram w roblox
+[popiszmy_sobie][popiszmy_sobie]bored Napisał: Co chcesz pokazać
+[popiszmy_sobie][popiszmy_sobie]💚 Jyugo 💙 Napisał: Ohayoo
+[popiszmy_sobie][popiszmy_sobie]Ganc_m Napisał: <@!307520148510736385>
+[popiszmy_sobie][popiszmy_sobie]Ganc_m Napisał: <@340930655707987970>  ejo
+[popiszmy_sobie][popiszmy_sobie]Ganc_m Napisał: hooo
+[popiszmy_sobie][popiszmy_sobie]Ganc_m Napisał: no
+[popiszmy_sobie][popiszmy_sobie]Ganc_m Napisał: duo
+[popiszmy_sobie][popiszmy_sobie]Ganc_m Napisał: ze mna
+[popiszmy_sobie][popiszmy_sobie]Ganc_m Napisał: w fortnite
+[popiszmy_sobie][popiszmy_sobie]Ganc_m Napisał: ;2
+[popiszmy_sobie][popiszmy_sobie]Ganc_m Napisał: 3
+[popiszmy_sobie][popiszmy_sobie]Baby Gίrl Napisał: hey
+[popiszmy_sobie][popiszmy_sobie]Lo Key Napisał: hello ^^
+[popiszmy_sobie][popiszmy_sobie]elwieshako Napisał: dzień dobry
+[popiszmy_sobie][popiszmy_sobie][Jhin] Ioniαn Sniper Napisał: _<@402524418561146911>  18.05 Pyrkon XD_
+[popiszmy_sobie][popiszmy_sobie]MEE6 Napisał: GRATULUJĘ <@!306447005000138765> właśnie awansowałeś, oby tak dalej ^^   `[Twój aktualny poziom: 1.]`
+[popiszmy_sobie][popiszmy_sobie]K0DaKk Napisał: <@!347362586679050240>
+[popiszmy_sobie][popiszmy_sobie]MEE6 Napisał: GRATULUJĘ <@!344794738311954434> właśnie awansowałeś, oby tak dalej ^^   `[Twój aktualny poziom: 14.]`
+[popiszmy_sobie][popiszmy_sobie]ExusNx Napisał: 
+[popiszmy_sobie][popiszmy_sobie]K&S  [Schmetterling] Napisał: Kolorowych
+[popiszmy_sobie][popiszmy_sobie]Baby Gίrl Napisał: Gdy cię pierwszy raz ujrzałem... 
+Stanął mi... i stoi... 
+Twój obraz przed oczami... 
+Stoi mi o kapie... Łza z oka mego... 
+Ty myślisz, że mam małego... 
+A ja mam wielkiego... 
+Ducha w ciele swoim... 
+I z wielką ochotą chciałbym ci wsadzić... 
+Głęboko i czule... 
+Pierścionek na palec... 
+Jesteś świetną, chyba się zakochałem...
+[popiszmy_sobie][popiszmy_sobie]K&S  [Schmetterling] Napisał: 💗
+[popiszmy_sobie][popiszmy_sobie]K0DaKk Napisał: Ogólnie tak dla wyjaśnień
+[popiszmy_sobie][popiszmy_sobie]K0DaKk Napisał: bo mi sie tam zajebiście podoba mój kolorek
+[popiszmy_sobie][popiszmy_sobie]K0DaKk Napisał: ale czemu jest ciemniejszy niż wasze?
+[popiszmy_sobie][popiszmy_sobie]K0DaKk Napisał: że niby jestem waszym murzynem czy jak to działa?
+[popiszmy_sobie][popiszmy_sobie]Iskrzące PaLuSzKi Napisał: XD
+[popiszmy_sobie][popiszmy_sobie]Iskrzące PaLuSzKi Napisał: Pasowałby Ci czarny kolor skóry Konrad
+[popiszmy_sobie][popiszmy_sobie]K0DaKk Napisał: Mówisz? XD
+[popiszmy_sobie][popiszmy_sobie]K0DaKk Napisał: <@296401912217993226>  i tak chce wyjaśnień
+[popiszmy_sobie][popiszmy_sobie]Iskrzące PaLuSzKi Napisał: Normalnie
+[popiszmy_sobie][popiszmy_sobie]Iskrzące PaLuSzKi Napisał: Tylko w duszy też byś musiał być czarmy
+[popiszmy_sobie][popiszmy_sobie]Iskrzące PaLuSzKi Napisał: Kurde w literki nie trafiam xd
+[popiszmy_sobie][popiszmy_sobie]M0THMUS7DI3 Napisał: 
+[popiszmy_sobie][popiszmy_sobie]K&S  [Schmetterling] Napisał: Dzień dobry
+[popiszmy_sobie][popiszmy_sobie]K&S  [Schmetterling] Napisał: <@344794738311954434> nwm, bo masz bliżej do kopalni <:xd:397495599995289601>
+[popiszmy_sobie][popiszmy_sobie]K&S  [Schmetterling] Napisał: A tak serio to od kolorów znajdę kogoś innego
+[popiszmy_sobie][popiszmy_sobie]K&S  [Schmetterling] Napisał: ¯\_(ツ)_/¯
+[popiszmy_sobie][popiszmy_sobie]K&S  [Schmetterling] Napisał: I się pozienia trochę
+[popiszmy_sobie][popiszmy_sobie]K&S  [Schmetterling] Napisał: ;P
+[popiszmy_sobie][popiszmy_sobie]Youmizu Napisał: eluwa
+[popiszmy_sobie][popiszmy_sobie]K&S  [Schmetterling] Napisał: A dzień dobry
+[popiszmy_sobie][popiszmy_sobie]Youmizu Napisał: jednak ktos zyje
+[popiszmy_sobie][popiszmy_sobie]K&S  [Schmetterling] Napisał: No ja trochę teraz
+[popiszmy_sobie][popiszmy_sobie]K&S  [Schmetterling] Napisał: Za jakieś 30 minut to się zmieni
+[popiszmy_sobie][popiszmy_sobie]Youmizu Napisał: u mnie tez lel
+[popiszmy_sobie][popiszmy_sobie]Youmizu Napisał: na razie to telefonu nie moge ozywic
+[popiszmy_sobie][popiszmy_sobie]K&S  [Schmetterling] Napisał: Włóż do ryżu
+[popiszmy_sobie][popiszmy_sobie]Youmizu Napisał: po co
+[popiszmy_sobie][popiszmy_sobie]Youmizu Napisał: tate stwierdzil sie za wielkiego znawce telefonow
+[popiszmy_sobie][popiszmy_sobie]Youmizu Napisał: i nie wie co oznacza biala dioda w telefonie
+[popiszmy_sobie][popiszmy_sobie]K&S  [Schmetterling] Napisał: <:hmmm:397495911615561738>
+[popiszmy_sobie][popiszmy_sobie]Youmizu Napisał: sama wsm nwm
+[popiszmy_sobie][popiszmy_sobie]K&S  [Schmetterling] Napisał: Pewnie ma to jakiś związek z iluminati
+[popiszmy_sobie][popiszmy_sobie]Youmizu Napisał: no
+[popiszmy_sobie][popiszmy_sobie]Youmizu Napisał: jezu zwalil go na ziemie *fcplm*
+[popiszmy_sobie][popiszmy_sobie]K&S  [Schmetterling] Napisał: 🤷
+[popiszmy_sobie][popiszmy_sobie]K&S  [Schmetterling] Napisał: Włóż do ryżu, w nocy przyjdzie jakiś chinol i ci go naprawi
+[popiszmy_sobie][popiszmy_sobie]K&S  [Schmetterling] Napisał: I weźmie sobie ryż
+[popiszmy_sobie][popiszmy_sobie]Youmizu Napisał: xx
+[popiszmy_sobie][popiszmy_sobie]Youmizu Napisał: predzej tylko ryz wezmie
+[popiszmy_sobie][popiszmy_sobie]K&S  [Schmetterling] Napisał: Nwm, prawdopodobnie
+[popiszmy_sobie][popiszmy_sobie]K&S  [Schmetterling] Napisał: Ale, jeśliś przyjdzie japoniec to naprawi i tak ulepszy, że przez parę dekad się nie popsuje ;P
+[popiszmy_sobie][popiszmy_sobie]K&S  [Schmetterling] Napisał: Btw mogę umierać
+[popiszmy_sobie][popiszmy_sobie]K0DaKk Napisał: conajwyżej zardzewieje
+[popiszmy_sobie][popiszmy_sobie]K0DaKk Napisał: #japońskablacha
+[popiszmy_sobie][popiszmy_sobie]Yumi Napisał: Dobry wszytkimc;
+[popiszmy_sobie][popiszmy_sobie]Paulinka Napisał: HEJKA  💖👋
+[popiszmy_sobie][popiszmy_sobie]K0DaKk Napisał: bry bry
+[popiszmy_sobie][popiszmy_sobie]K&S  [Schmetterling] Napisał: Hejka naklejka
+[popiszmy_sobie][popiszmy_sobie]Ganc_m Napisał: Witam witam
+[popiszmy_sobie][popiszmy_sobie]Mieciu Napisał: Cześć ^^
+[popiszmy_sobie][popiszmy_sobie]Misiaa 🐻 Napisał: Heju heji
+[popiszmy_sobie][popiszmy_sobie]Misiaa 🐻 Napisał: 🖤 🖤 🖤
+[popiszmy_sobie][popiszmy_sobie]K&S  [Schmetterling] Napisał: Misiaaa
+[popiszmy_sobie][popiszmy_sobie]Mieciu Napisał: Misia :black_heart:!
+[popiszmy_sobie][popiszmy_sobie]Misiaa 🐻 Napisał: 🖤 🖤 🖤
+[popiszmy_sobie][popiszmy_sobie]Misiaa 🐻 Napisał: Ta wasza misia to zajebista jest
+[popiszmy_sobie][popiszmy_sobie]MEE6 Napisał: GRATULUJĘ <@!369552311283875841> właśnie awansowałeś, oby tak dalej ^^   `[Twój aktualny poziom: 3.]`
+[popiszmy_sobie][popiszmy_sobie]Misiaa 🐻 Napisał: Wowoow dziękuję maćku
+[popiszmy_sobie][popiszmy_sobie]| عبد Napisał: Siema koledzy
+[popiszmy_sobie][popiszmy_sobie]Youmizu Napisał: eluwa
+[popiszmy_sobie][popiszmy_sobie]★BlackY★ Napisał: 
+[popiszmy_sobie][popiszmy_sobie]K&S  [Schmetterling] Napisał: Bo maciek to dobra morda
+[popiszmy_sobie][popiszmy_sobie]Ganc_m Napisał: Hejka wszystkim
+[popiszmy_sobie][popiszmy_sobie]Ganc_m Napisał: <@!369552311283875841>, <@296401912217993226>  co tam mordeczki ? ;3
+[popiszmy_sobie][popiszmy_sobie]K&S  [Schmetterling] Napisał: Wracając do domu wsiadłem do złego autobusu
+[popiszmy_sobie][popiszmy_sobie]K&S  [Schmetterling] Napisał: A następny mam za około godzinę
+[popiszmy_sobie][popiszmy_sobie]Ganc_m Napisał: Ahahah
+[popiszmy_sobie][popiszmy_sobie]Ganc_m Napisał: Brawo
+[popiszmy_sobie][popiszmy_sobie]Ganc_m Napisał: Ja kiedyś w podstawówce wlazłem do złego busa i pojechałem aż na pentle i musiała mnie mama odbierać xd
+[popiszmy_sobie][popiszmy_sobie]K&S  [Schmetterling] Napisał: XD
+[popiszmy_sobie][popiszmy_sobie]Ganc_m Napisał: No ale 10 lat miałem wiec wiesz xd
+[popiszmy_sobie][popiszmy_sobie]K&S  [Schmetterling] Napisał: Uufff
+[popiszmy_sobie][popiszmy_sobie]K&S  [Schmetterling] Napisał: Już mam załatwiony powrót
+[popiszmy_sobie][popiszmy_sobie]Ganc_m Napisał: No i git
+[popiszmy_sobie][popiszmy_sobie]K&S  [Schmetterling] Napisał: Wujek kończy pracę o 15
+[popiszmy_sobie][popiszmy_sobie]Ganc_m Napisał: Szanuje
+[popiszmy_sobie][popiszmy_sobie]K&S  [Schmetterling] Napisał: I podjedzie pomnie
+[popiszmy_sobie][popiszmy_sobie]K&S  [Schmetterling] Napisał: Ale oddaje mu hajs Za Paliwo
+[popiszmy_sobie][popiszmy_sobie]K&S  [Schmetterling] Napisał: XD
+[popiszmy_sobie][popiszmy_sobie]Ganc_m Napisał: Ahahah
+[popiszmy_sobie][popiszmy_sobie]Ganc_m Napisał: No to ciastek nie bedzie
+[popiszmy_sobie][popiszmy_sobie]K&S  [Schmetterling] Napisał: No niestety
+[popiszmy_sobie][popiszmy_sobie]K&S  [Schmetterling] Napisał: Ale mam ważniejsze wydatki niż ciastka
+[popiszmy_sobie][popiszmy_sobie]K&S  [Schmetterling] Napisał: *`tak są rzeczy ważniejsze od jedzenia`*
+[popiszmy_sobie][popiszmy_sobie]Misiaa 🐻 Napisał: Msiaiissis
+[popiszmy_sobie][popiszmy_sobie]Yumi Napisał: <@296401912217993226>  Zapomniam przez ten nick ze to Ty Paweł
+[popiszmy_sobie][popiszmy_sobie]Ganc_m Napisał: Xd
+[popiszmy_sobie][popiszmy_sobie]Ganc_m Napisał: To niezła Aga xd
+[popiszmy_sobie][popiszmy_sobie]Iskrzące PaLuSzKi Napisał: Nie ma rzeczy ważniejszych od jedzenia lol
+[popiszmy_sobie][popiszmy_sobie]Iskrzące PaLuSzKi Napisał: Nie licząc tlenu
+[popiszmy_sobie][popiszmy_sobie]Yumi Napisał: Sama mu ten nick doradziłam <@!407580978580684807>
+[popiszmy_sobie][popiszmy_sobie]MaciekGancu Napisał: <@340930655707987970>  ahhaahha xD dobry żart
+[popiszmy_sobie][popiszmy_sobie]Yumi Napisał: ?
+[popiszmy_sobie][popiszmy_sobie]Ganc_m Napisał: To tym bardziej :3
+[popiszmy_sobie][popiszmy_sobie]Yumi Napisał: o co chodzi?
+[popiszmy_sobie][popiszmy_sobie]Ganc_m Napisał: ?
+[popiszmy_sobie][popiszmy_sobie]Yumi Napisał: <@!407580978580684807>
+[popiszmy_sobie][popiszmy_sobie]Yumi Napisał: ?
+[popiszmy_sobie][popiszmy_sobie]Ganc_m Napisał: <@340930655707987970>
+[popiszmy_sobie][popiszmy_sobie]Ganc_m Napisał: ?
+[popiszmy_sobie][popiszmy_sobie]Yumi Napisał: no coooooooooooooooo?!
+[popiszmy_sobie][popiszmy_sobie]Iskrzące PaLuSzKi Napisał: To nie on Cię tagowal
+[popiszmy_sobie][popiszmy_sobie]Iskrzące PaLuSzKi Napisał: xD
+[popiszmy_sobie][popiszmy_sobie]Ganc_m Napisał: no nicccccccccccccccccc ?!
+[popiszmy_sobie][popiszmy_sobie]Ganc_m Napisał: Ciii
+[popiszmy_sobie][popiszmy_sobie]Ganc_m Napisał: Musztario
+[popiszmy_sobie][popiszmy_sobie]Ganc_m Napisał: Zobaczymy kiedy sie ogarnie cd
+[popiszmy_sobie][popiszmy_sobie]Ganc_m Napisał: Xd
+[popiszmy_sobie][popiszmy_sobie]Iskrzące PaLuSzKi Napisał: Kiedyś
+[popiszmy_sobie][popiszmy_sobie]Iskrzące PaLuSzKi Napisał: xD
+[popiszmy_sobie][popiszmy_sobie]Ganc_m Napisał: Moze troche potrwać ;3
+[popiszmy_sobie][popiszmy_sobie]Iskrzące PaLuSzKi Napisał: Też tak sądzę
+[popiszmy_sobie][popiszmy_sobie]Spyte Napisał: Heju wszystlkim
+[popiszmy_sobie][popiszmy_sobie]Iskrzące PaLuSzKi Napisał: Elko
+[popiszmy_sobie][popiszmy_sobie]Ganc_m Napisał: Elo sprajt
+[popiszmy_sobie][popiszmy_sobie]Yumi Napisał: pfffff
+[popiszmy_sobie][popiszmy_sobie]Ganc_m Napisał: ;*
+[popiszmy_sobie][popiszmy_sobie]Iskrzące PaLuSzKi Napisał: =hug  <@340930655707987970>
+[popiszmy_sobie][popiszmy_sobie]Ayana Napisał: 
+[popiszmy_sobie][popiszmy_sobie]Yumi Napisał: =hug <@!407637715895713800>
+[popiszmy_sobie][popiszmy_sobie]Ayana Napisał: 
+[popiszmy_sobie][popiszmy_sobie]Iskrzące PaLuSzKi Napisał: ❤
+[popiszmy_sobie][popiszmy_sobie]Ganc_m Napisał: Słodko
+[popiszmy_sobie][popiszmy_sobie]Spyte Napisał: Mrr
+[popiszmy_sobie][popiszmy_sobie]Ganc_m Napisał: Zaraz sie zrzygam ;3
+[popiszmy_sobie][popiszmy_sobie]Iskrzące PaLuSzKi Napisał: Słodko
+[popiszmy_sobie][popiszmy_sobie]Ganc_m Napisał: Hhaha
+[popiszmy_sobie][popiszmy_sobie]Iskrzące PaLuSzKi Napisał: xD
+[popiszmy_sobie][popiszmy_sobie]Spyte Napisał: ¯\_(ツ)_/¯
+[popiszmy_sobie][popiszmy_sobie]Ganc_m Napisał: ¯\_(ツ)_/¯
+[popiszmy_sobie][popiszmy_sobie]Iskrzące PaLuSzKi Napisał: 
+[popiszmy_sobie][popiszmy_sobie]Ganc_m Napisał: O ty
+[popiszmy_sobie][popiszmy_sobie]Iskrzące PaLuSzKi Napisał: C:
+[popiszmy_sobie][popiszmy_sobie]Spyte Napisał: https://www.tenor.co/vxuu.gif
+[popiszmy_sobie][popiszmy_sobie]ObywateL Napisał: 
+[popiszmy_sobie][popiszmy_sobie]Ganc_m Napisał: Elo
+[popiszmy_sobie][popiszmy_sobie]Czołg! Napisał: 
+[popiszmy_sobie][popiszmy_sobie]K&S  [Schmetterling] Napisał: dzień dobry
+[popiszmy_sobie][popiszmy_sobie]K&S  [Schmetterling] Napisał: Jesteś czołgiem z piosenki Kabanosa?
+[popiszmy_sobie][popiszmy_sobie]K&S  [Schmetterling] Napisał: >yt Kabanos czołg
+[popiszmy_sobie][popiszmy_sobie]Ganc_m Napisał: Nie czołgiem z 4 pancernych
+[popiszmy_sobie][popiszmy_sobie]Tatsumaki Napisał: 📽  |  ** https://www.youtube.com/watch?v=woiXANaog0U **
+[popiszmy_sobie][popiszmy_sobie]Napi Napisał: ")
+[popiszmy_sobie][popiszmy_sobie]K&S  [Schmetterling] Napisał: elo
+[popiszmy_sobie][popiszmy_sobie]ObywateL Napisał: 
+[popiszmy_sobie][popiszmy_sobie]Ganc_m Napisał: Siema <@!271368642451603456>
+[popiszmy_sobie][popiszmy_sobie]Napi Napisał: witam cie czlowieku
+[popiszmy_sobie][popiszmy_sobie]Ganc_m Napisał: Co tak oficjalnie ??? Xd
+[popiszmy_sobie][popiszmy_sobie]💚 Jyugo 💙 Napisał: Ohayo
+[popiszmy_sobie][popiszmy_sobie]K0DaKk Napisał: Będzie ktoś po 22? Bym coś porobił po pracy  :|
+[popiszmy_sobie][popiszmy_sobie]K&S  [Schmetterling] Napisał: chyba ja
+[popiszmy_sobie][popiszmy_sobie]K&S  [Schmetterling] Napisał: 😛
