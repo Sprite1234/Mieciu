@@ -426,7 +426,7 @@ if(command == 'avatar'){
    .addField("Ścieżka do pliku", `**Bot znajduje się w folderze:** ${__dirname}\n**Plik Główny:** ${__filename}`)
    .addField("Bot został włączony",` ${day} o ${time}`)
    message.channel.send({embed: info})
-
+   console.log(os.cpus)
   }
     if (command === "kick") {
       if(!message.member.roles.some(r=>["Admin","Administrator", "Moderator", "podkomisarze w Hyrule", "agent FBI w Hyrule", "właściciele", "Administracja"].includes(r.name)))
