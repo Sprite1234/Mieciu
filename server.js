@@ -33,7 +33,7 @@ var d = new Date()
 var hour = d.getHours()
 var minute = d.getMinutes()
 var minute = `${minute}`.padStart(2, 0)
-var time = hour + ":" + minute
+var time = hour +2 + ":" + minute
 switch (new Date().getDay()) {
   case 0:
       day = " w Niedzielę";
