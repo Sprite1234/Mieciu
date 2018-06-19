@@ -40,6 +40,7 @@
     "moment": "^2.22.2",
     "moment-duration-format": "^2.2.2",
     "opus": "0.0.0",
+    "opusscript": "0.0.6",
     "pastebin": "0.0.1",
     "qr-image": "^3.2.0",
     "quick.hook": "^1.4.2",
