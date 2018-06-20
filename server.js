@@ -30,10 +30,10 @@ client.on("guildDelete", guild => {
   console.log(`Usunięto mnie z serwera: ${guild.name} (id: ${guild.id})`);
 });
 var d = new Date()
-var hour = d.getHours()
+var hour = d.getHours() +2
 var minute = d.getMinutes()
 var minute = `${minute}`.padStart(2, 0)
-var time = hour +2 + ":" + minute
+var time = hour + ":" + minute
 switch (new Date().getDay()) {
   case 0:
       day = " w Niedzielę";
